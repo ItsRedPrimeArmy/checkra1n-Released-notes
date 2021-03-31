@@ -38,7 +38,7 @@ Checkra1n Made By:Checkra1n Team
 
 
 
-
+Released Notes 
 
 Checkra1n 0.12.2 beta :)
 
