@@ -1,4 +1,6 @@
-# checkra1n-Released-notes
+# checkra1n-Released-notes 
+
+Checkra1n Made By:Checkra1n Team
 
 
 
